@@ -1,4 +1,5 @@
-# quoter
+# quoter 
+[![Build Status](https://travis-ci.org/mithunkhatri/quoter.svg?branch=master)](https://travis-ci.org/mithunkhatri/quoter)
 
 Quoter is a web application which displays random quotes with beautiful vector graphics on the background.
 The special thing about this application is that its completed handcrafted, even the `font`.
